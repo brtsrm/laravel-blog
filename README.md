@@ -1,2 +1,3 @@
-#Laravel
-Laravel ile blog sistemi
+# Laravel
+
+ Laravel ile geliştirilmiştir. 8.19.0 version ile yazılmıştır.
